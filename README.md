@@ -2,7 +2,7 @@
 Legacy Clash of Clans server (LCS)
 
 
-This repository contains the source code of the server software used by LegacyClash. It's based on jeanbmar's public release of UCS 0610's source. I modernized it, made it more stable (80% the stability of UCS 0731) and added a lot more server-side and client-side stuff into it. New features for this C# server emulator are (and this is a comparison of UCS0610 and LCS)
+This repository contains the source code of the server software used by LegacyClash. It's based on jeanbmar's public release of UCS 0610's source. It's way more modernized, made it more stable (80% the stability of UCS 0731) and added a lot more server-side and client-side stuff into it. New features for this C# server emulator are (and this is a comparison of UCS0610 and LCS)
 
 -- Stablilty:
 - 90% more stable than 0610, near the stability of ucs 7.x.x releases.
